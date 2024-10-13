@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grana\\Desktop\\MyErp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|c:\\users\\grana\\desktop\\myerp\\myerp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:myerp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|c:\\users\\grana\\desktop\\myerp\\myerp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:myerp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|c:\\users\\grana\\desktop\\myerp\\myerp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:myerp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|c:\\users\\grana\\desktop\\myerp\\myerp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:myerp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:MyErp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MyErp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C0978E2-3514-4607-BC15-9169C291247F}|MyErp\\MyErp.csproj|solutionrelative:MyErp\\MyErp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\Calculator.cs",
+              "RelativeDocumentMoniker": "MyErp\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\Calculator.cs",
+              "RelativeToolTip": "MyErp\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:59:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyErp.csproj",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MyErp.csproj",
+              "RelativeDocumentMoniker": "MyErp\\MyErp.csproj",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MyErp.csproj",
+              "RelativeToolTip": "MyErp\\MyErp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T15:41:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\Program.cs",
+              "RelativeDocumentMoniker": "MyErp\\Program.cs",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\Program.cs",
+              "RelativeToolTip": "MyErp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:35:47.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MyErp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.Designer.cs",
+              "RelativeToolTip": "MyErp\\MainForm.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwB4AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:00:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyErp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.cs",
+              "RelativeToolTip": "MyErp\\MainForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:00:09.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyErp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Grana\\Desktop\\MyErp\\MyErp\\MainForm.cs [Design]",
+              "RelativeToolTip": "MyErp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:58:50.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
